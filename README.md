@@ -269,6 +269,4 @@ Sahitya
 
 ---
 
-# License
 
-MIT License
